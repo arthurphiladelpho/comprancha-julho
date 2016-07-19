@@ -1,0 +1,226 @@
+#bons {
+   	width:199px;
+   	height: 48px;
+  	position: absolute; 
+    /*background-color: salmon;*/
+}
+
+ #quem {
+	 	width:199px;
+	 	height: 48px;
+		position: absolute; 
+		margin-left: 200px;
+		/*background-color: aliceblue;*/
+}
+
+ #como {
+	 	width:199px;
+	 	height: 48px;
+		position: absolute; 
+		margin-left: 400px;
+		/*background-color: blueviolet;*/
+}
+
+ #home {
+	 	width:598px;
+	 	height: 860px;
+		position: absolute; 
+		margin-left: 1px;
+		margin-top: 50px;
+		/*background-color: cornflowerblue;*/
+}
+
+#rack {
+ 	width:598px;
+ 	height: 1150px;
+	position: absolute; 
+	margin-left: 1px;
+	margin-top: 910px;
+	/*background-color: crimson;*/
+}
+
+#rio {
+ 	width:598px;
+ 	height: 1220px;
+	position: absolute; 
+	margin-left: 1px;
+	margin-top: 2060px;
+	/*background-color: darkturquoise;*/
+}
+
+ #supeata {
+  width:598px;
+  height: 830px;
+  position: absolute; 
+  margin-left: 1px;
+  margin-top: 3280px;
+  /*background-color: deepskyblue;*/
+}
+
+#casa {
+ 	width:598px;
+ 	height: 890px;
+	position: absolute; 
+	margin-left: 1px;
+	margin-top: 4110px;
+	/*background-color: dodgerblue;*/
+}
+
+ #encarte {
+ 	width:598px;
+ 	height: 770px;
+	position: absolute; 
+	margin-left: 1px;
+	margin-top: 5000px;
+	/*background-color: lightblue;*/
+}
+
+#categorias {
+  width:598px;
+  height: 55px;
+  position: absolute; 
+  margin-left: 1px;
+  margin-top: 5770px;
+  /*background-color: lightcyan;*/
+}
+
+#surf {
+ 	width: 150px;
+ 	height: 55px;
+	position: absolute; 
+	margin-left: 1px;
+	margin-top: 5825px;
+	/*background-color: mediumturquoise;*/
+}
+
+#kite {
+ 	width: 150px;
+ 	height: 55px;
+	position: absolute; 
+	margin-left: 150px;
+	margin-top: 5825px;
+	/*background-color: midnightblue;*/
+}
+
+#snow {
+ 	width: 150px;
+ 	height: 55px;
+	position: absolute; 
+	margin-left: 300px;
+	margin-top: 5825px;
+	/*background-color: slateblue;*/
+}
+
+ #wind {
+ 	width: 150px;
+ 	height: 55px;
+	position: absolute; 
+	margin-left: 450px;
+	margin-top: 5825px;
+	/*background-color: steelblue;*/
+}
+
+#sup {
+ 	width: 150px;
+ 	height: 55px;
+	position: absolute; 
+	margin-left: 1px;
+	margin-top: 5880px;
+	/*background-color: turquoise;*/
+}
+
+#skate {
+ 	width: 150px;
+ 	height: 55px;
+	position: absolute; 
+	margin-left: 150px;
+	margin-top: 5880px;
+	/*background-color: aqua;*/
+}
+
+#bodyboard {
+ 	width: 150px;
+ 	height: 55px;
+	position: absolute; 
+	margin-left: 300px;
+	margin-top: 5880px;
+	/*background-color: aquamarine;*/
+}
+
+#wake {
+ 	width: 150px;
+ 	height: 55px;
+	position: absolute; 
+	margin-left: 450px;
+	margin-top: 5880px;
+	/*background-color: black;*/
+}
+
+ #neo {
+ 	width: 150px;
+ 	height: 55px;
+	position: absolute; 
+	margin-left: 1px;
+	margin-top: 5935px;
+	/*background-color: blue;*/
+}
+
+#foto {
+ 	width: 150px;
+ 	height: 55px;
+	position: absolute; 
+	margin-left: 150px;
+	margin-top: 5935px;
+	/*background-color: pink;*/
+}
+
+#outro {
+ 	width: 300px;
+ 	height: 55px;
+	position: absolute; 
+	margin-left: 300px;
+	margin-top: 5935px;
+	/*background-color: orangered;*/
+}
+
+ #surfista {
+  width:598px;
+  height: 125px;
+  position: absolute; 
+  margin-left: 1px;
+  margin-top: 5990px;
+  /*background-color: cadetblue;*/
+}
+
+ #circulo {
+  width:199px;
+  height: 125px;
+  position: absolute; 
+  margin-left: 1px;
+  margin-top: 6115px;
+  /*background-color: cornflowerblue;*/
+}
+
+ #maluco {
+  width:199px;
+  height: 125px;
+  position: absolute; 
+  margin-left: 201px;
+  margin-top: 6115px;
+  /*background-color: darkgreen;*/
+}
+
+#vizu {
+	width:199px;
+	height: 125px;
+	position: absolute; 
+	margin-left: 402px;
+	margin-top: 6115px;
+	/*background-color: forestgreen;*/
+}
+
+a.fill {
+    display: block;
+    height: 100%;
+    width: 100%;
+}
